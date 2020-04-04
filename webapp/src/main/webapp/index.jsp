@@ -1,3 +1,2 @@
 <h1> this is a testing app, to deploy with ansible and kubernetes </h1>
-<h2> this is the first commit </h2>
-<h3> this is git testing123 </h3>
+<h2> Testing the final build for deplying with Jenkins and Ansible </h2>
